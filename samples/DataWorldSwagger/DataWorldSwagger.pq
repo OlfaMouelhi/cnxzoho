@@ -2,8 +2,8 @@
 section DataWorldSwagger;
 
 // TODO: add your client id and secret to the embedded files
-client_id = Text.FromBinary(Extension.Contents("client_id"));
-client_secret = Text.FromBinary(Extension.Contents("client_secret"));
+client_id = Text.FromBinary(Extension.Contents("f2716179fb93ff1a382f"));
+client_secret = Text.FromBinary(Extension.Contents("ff1437ca2d528d6bd8c4bc1fe51b11b08ff50ac9"));
 
 redirect_uri = "https://oauth.powerbi.com/views/oauthredirect.html";
 windowWidth = 800;
